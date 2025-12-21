@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=72tommy72" alt="72tommy72" /></a> </p>
 
-- 🌱 I’m currently learning **Nest.js**
+- 💼 I’m currently working as a Full-Stack Developer on EgyCash since June 2025.
 
 - 👨‍💻 All of my projects are available at [https://tommy-portfolio.netlify.app/](https://tommy-portfolio.netlify.app/)
 
