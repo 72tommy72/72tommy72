@@ -49,11 +49,6 @@ Before that, a year of freelance work delivering e-commerce applications end to 
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vehicles-209-2c5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Depots-4-2c5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ATMs_Serviced-2,500-2c5364?style=for-the-badge" />
-</p>
 
 ---
 
