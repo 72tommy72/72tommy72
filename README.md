@@ -1,39 +1,89 @@
-<h1 align="center">Hi 👋, I'm Tommy</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Mohamed Hatem</h1>
+<p align="center">Full Stack Developer &nbsp;·&nbsp; Backend-focused</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=72tommy72&label=Profile%20views&color=0e75b6&style=flat" alt="72tommy72" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=72tommy72" alt="72tommy72" /></a> </p>
-
-- 💼 I’m currently working as a Full-Stack Developer on EgyCash since June 2025.
-
-- 👨‍💻 All of my projects are available at [https://tommy-portfolio.netlify.app/](https://tommy-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-hatem-661383346](https://www.linkedin.com/in/mohamed-hatem-661383346)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nOiaQeTSjptfjFCxcYZzN9wPofgBQuGG/view?usp=drive_link](https://drive.google.com/file/d/1nOiaQeTSjptfjFCxcYZzN9wPofgBQuGG/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hatem-661383346/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hatem-661383346/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/72tommy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/72tommy" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_mohamedhatemm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mohamedhatemm" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hatem-661383346/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mohamed27hatemm@gmail.com">Email</a>
 </p>
-<!-- <img scr="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-<img scr="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
-<img scr="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI3NDQxMzUsIm5iZiI6MTc1Mjc0MzgzNSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE3VDA5MTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0Y2Q5YTI2YjI4YTZjYmJkMDljYTFlNzYwNDRjN2RhMmJhMDBmNThiZDAzNDA0YThjY2MzN2Y1MmVjMGY4OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4TwOBGhHPjHQmrUW-0eoO73FdIZ6gYWopgB8FVb30iI"/>
-<img scr="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI3NDQxMzUsIm5iZiI6MTc1Mjc0MzgzNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE3VDA5MTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5YWNiNmE4ZmZhOWIwODgwM2ZiNmY3NjRiNTkwMWRiMTNmZmMxOTE5ZDg3OWFhZDYzNzdmMDlkMzk5MDgwM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Um5nE4Sw94qj23J_jNp_yG0uxh9iBIEW4lAAkoVdsCM"/>
-<img scr="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI3NDQxMzUsIm5iZiI6MTc1Mjc0MzgzNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE3VDA5MTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViMDQ1ODM1M2Q5ZDI1N2VmYjRlMmZmNGJhMGI4YzhlOTliOWUwNzAzMzMwZDY2YmY1MGIzNmVjZmFhMDU0OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8kICUUr3QuXUTfv4UxHl-KRC8sHWvdik6FmHPOWEL7I"/>
-<img scr="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI3NDQxMzUsIm5iZiI6MTc1Mjc0MzgzNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE3VDA5MTcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhYmU1MzEwNDBkY2ZmMjMwNzJkZjJlNjlmZjg4MGRhZmRlOTI4MDViMDczYzgwMGZhOTJlNTdjMzYwYWQxY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Hl5NZU0s46D3_jwBKI29FlTOCwsIJgg-JvOzxTTpjNQ"/> -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+---
+
+I build production web applications end to end, working mostly on the server side —
+REST APIs, data modelling, authentication and the parts that decide whether a system
+holds up with real users.
+
+Currently at **Egycash for Technological Cash Solutions**, where I build and maintain
+the fleet management platform behind a cash-in-transit operation: 209 vehicles and
+their drivers across 4 depots, servicing a network of 2,500 ATMs. Vehicle registry,
+driver records, violations tracking, and the reporting layer on top of them.
+
+Before that, a year of freelance work delivering e-commerce applications end to end.
+
+---
+
+## Selected Projects
+
+### [online-learning-platform](https://github.com/72tommy72/online-learning-platform)
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `Passport` `OAuth2`
+
+Learning management API with course creation, enrolment and role-based access.
+OAuth2 sign-in through **Google, Facebook and GitHub** alongside JWT sessions,
+PostgreSQL via TypeORM, Cloudinary media handling.
+
+### [BookingSystem](https://github.com/72tommy72/BookingSystem)
+`TypeScript` `Express` `Prisma` `PostgreSQL` `Stripe` `Winston` `Docker`
+
+Booking API with Stripe payments and a hardened security layer — Helmet, rate
+limiting, XSS and NoSQL-injection sanitisation, CORS. Structured logging with
+Winston, fully documented with Swagger.
+
+### [e-commerce](https://github.com/72tommy72/e-commerce)
+`Node.js` `Express` `MongoDB` `JWT` `Stripe` `PDFKit` `Docker`
+
+E-commerce API covering authentication, product catalogue, cart and Stripe
+checkout. Generates PDF invoices with PDFKit and supports a discount voucher
+system. Swagger documented.
+
+### [HRMate](https://github.com/72tommy72/HRMate)
+`TypeScript` `Express` `MongoDB` `WhatsApp Web API` `Stripe`
+
+HR management API with WhatsApp Web integration for automated employee
+notifications, on the same security and structured-logging stack.
+
+### [medical-records-system](https://github.com/72tommy72/medical-records-system)
+`NestJS` `TypeScript` `MongoDB` `class-validator` `Swagger` `Docker`
+
+Medical records API built on NestJS modules with a class-validator request layer,
+JWT authentication and Cloudinary file uploads.
+
+### [graduation-project](https://github.com/72tommy72/graduation-project) — Anemia Detection
+`Node.js` `Express` `TensorFlow.js`
+
+Deep learning API that detects anemia from images of the lower eyelid conjunctiva.
+Graduation project, Grade A.
+
+---
+
+## Stack
+
+**Languages** &nbsp; JavaScript (ES6+) · TypeScript
+
+**Backend** &nbsp; Node.js · Express · NestJS · REST APIs · Socket.IO
+
+**Databases** &nbsp; MongoDB · PostgreSQL · MySQL · Redis · Mongoose · Prisma · TypeORM
+
+**Auth & Security** &nbsp; JWT · OAuth2 · Passport · Helmet · rate limiting · input sanitisation
+
+**Testing** &nbsp; Jest · Supertest · Cypress
+
+**Tooling** &nbsp; Docker · Docker Compose · Git · GitHub Actions · Swagger · Winston · Postman
+
+**Frontend** &nbsp; React · Next.js · Tailwind CSS · Redux Toolkit · Sass · Bootstrap
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=72tommy72&show_icons=true&hide_border=true&hide_title=true&hide=stars&theme=graywhite" height="140" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72tommy72&layout=compact&hide_border=true&theme=graywhite&langs_count=6" height="140" alt="Top languages" />
+</p>
